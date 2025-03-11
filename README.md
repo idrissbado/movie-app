@@ -1,6 +1,6 @@
 # Movies By Idriss - React Router Movie App
 
-![Movies By Moonlight](https://placeholder.svg?height=250&width=600&text=movie-app)
+![Movies By Moonlight](https://placeholder.svg?height=250&width=600&text=Movies+By+Moonlight)
 
 A beautiful and interactive movie browsing application built with React and React Router. This application allows users to browse movies, view details, watch trailers, and add new movies to the collection.
 
